@@ -1,4 +1,4 @@
-module github.com/IvMaslov/qtls-go
+module github.com/IvMaslov/qtls
 
 go 1.20
 
